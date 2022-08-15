@@ -5,6 +5,12 @@ Simple messaging app that allows users to send and receive messages to and from 
 This app consists of both backend application build in Django and frontend build in React.
 stpPostgreSQL database is used for all the data storage.
 
+## Frontend App 
+
+![My Image](images/app-login.png)
+![My Image](images/app-screenshot.png)
+![My Image](images/app-select-user.png)
+
 ## Functional Requirements
 
 List of functional requirements presented in the code includes:
