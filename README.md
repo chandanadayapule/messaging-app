@@ -1,5 +1,6 @@
 # Introduction - Messaging App 
 
+
 Simple messaging app that allows users to send and receive messages to and from other users.
 This app consists of both backend application build in Django and frontend build in React.
 stpPostgreSQL database is used for all the data storage.
